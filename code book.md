@@ -1,7 +1,10 @@
 # Code book
 
-## The Subject column refers to the different subjects numbered as numeric number 1-30
-## The Activity column refers to the 6 different activities that the data is collected, which includes:
+## Subject
+The Subject column refers to the different subjects numbered as numeric number 1-30
+
+## Activity
+The Activity column refers to the 6 different activities that the data is collected, which includes:
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
